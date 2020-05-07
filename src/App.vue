@@ -19,7 +19,8 @@ import VideoDetails from "./components/VideoDetails";
 
 import axios from "axios";
 
-const API_KEY = "AIzaSyBCNgXhSUWWeDCniaa7w0TkViMX8onlM_0";
+// git this key from Google Developer Console
+const API_KEY = "***************************";
 
 export default {
   name: "App",
